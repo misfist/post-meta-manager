@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+.svnignore
+.editorconfig
+bin
+vendor
+node_modules
